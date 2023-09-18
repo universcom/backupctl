@@ -14,3 +14,5 @@
 > *IF you want to get backup per-project fulfill projectsID file*
 
 > *IF you want to get backup per-instance fulfill instanceID file*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
